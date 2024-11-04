@@ -1,0 +1,6 @@
+Makefile
+
+# environment
+.env
+.env.*
+*.env
